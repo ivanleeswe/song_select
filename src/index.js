@@ -13,3 +13,4 @@ ReactDOM.render(
 
 
 //src index, comp app, action, reducers, src index, songlist, connect mapstatetoprop,renderlist,semantic ui grid,
+//action import in songlist,onclick, pass action creator to connect function dispatchs too,songdetail
