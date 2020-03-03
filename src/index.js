@@ -12,4 +12,4 @@ ReactDOM.render(
 
 
 
-//src index, comp app, action, reducers, src index, 
+//src index, comp app, action, reducers, src index, songlist, connect mapstatetoprop,renderlist,
